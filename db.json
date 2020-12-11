@@ -2,24 +2,24 @@
   "logs": [
     {
       "id": 1,
-      "message": "Revise the backend on ecommerce project 107",
-      "attention": false,
-      "date": "12-10-2020",
-      "techs": "Rabiul Alam"
-    },
-    {
-      "id": 2,
-      "message": "Retouch CSS Navbar on ecommerce project 107",
+      "message": "Fix code 007",
       "attention": true,
-      "date": "12-10-2020",
-      "techs": "Matthew Angel"
+      "tech": "Fabian Pena",
+      "date": "2020-12-11T16:03:35.575Z"
     },
     {
-      "id": 3,
-      "message": "Create a contact form",
+      "message": "Finish project for games",
+      "attention": true,
+      "tech": "Mateus Tavares",
+      "date": "2020-12-11T15:54:18.019Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "Check on TA's to see if they are working",
       "attention": false,
-      "date": "12-10-2020",
-      "techs": "Mateus Tavares"
+      "tech": "Rabiul Alam",
+      "date": "2020-12-11T15:54:44.636Z"
     }
   ],
   "techs": [
@@ -27,11 +27,6 @@
       "id": 1,
       "firstName": "Rabiul",
       "lastName": "Alam"
-    },
-    {
-      "id": 2,
-      "firstName": "Matthew",
-      "lastName": "Angel"
     },
     {
       "id": 3,
